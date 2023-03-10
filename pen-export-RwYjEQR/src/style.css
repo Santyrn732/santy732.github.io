@@ -1,0 +1,21 @@
+.title{
+    color:black;
+    width: 50%;
+    margin-left: 400px;
+    }
+
+.textos{  
+color: Black;
+    width: 80%;
+    margin-left: 30px;
+    border: 2px solid black;
+}
+
+.body{
+background: #84b6f4;
+border: 5px solid black;
+padding: 5px;
+width:1300px;
+height: 1500 px;
+text-align: justify;
+}
